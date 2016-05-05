@@ -29,7 +29,7 @@
 #
 # === Authors
 #
-# Author Name <author@domain.com>
+# Alexey Lukashin
 #
 # === Copyright
 #
