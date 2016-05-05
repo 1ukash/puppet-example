@@ -29,7 +29,7 @@
 #
 # === Authors
 #
-# Alexey Lukashin
+# Alexey Lukashin mail@anothersite.com
 #
 # === Copyright
 #
